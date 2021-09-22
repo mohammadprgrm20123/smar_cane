@@ -1,1 +1,1 @@
-# smar_cane application
+# smart_cane application
